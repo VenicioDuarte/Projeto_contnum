@@ -3,7 +3,7 @@
 ## QUAL OBJETIVO?
 **Serva para fazer sorteios online**
 ## O QUE FOI UTILIZADO?
-**Utilizei conhecimento adquiridos em sala de aula e na famosa internet. **
+** Utilizei conhecimento adquiridos em sala de aula e na famosa internet. **
 ## LINGUAGENS UTILIZADAS
 <div>
   
