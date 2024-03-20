@@ -1,0 +1,97 @@
+body{
+    background-image: url("./img/Fundo\ site.jpg");  
+}
+
+.logo_site{
+    width: 534px;
+    height:100px;
+}
+.número{
+    width: 56px;
+    height: 15px;
+    margin-top: 150px;
+    margin-bottom: px;
+    margin-right: px;
+    margin-left: 600px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.sortear{
+    font-size: 30px;
+    margin-top: -130px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 460px;
+
+}
+.entre{
+    font-size: 30px;
+    margin-top: 90px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 460px; 
+}
+.input{
+    width: 56px;
+    height: 15px;
+    margin-top: 30px;
+    margin-bottom: px;
+    margin-right: px;
+    margin-left: 50px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.input2{
+    width: 56px;
+    height: 15px;
+    margin-top: -400px;
+    margin-bottom: px;
+    margin-right: px;
+    margin-left: 85px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+.sorteio{
+    border: solid green 2px; 
+    border-radius: 10px;
+    background-color: green;
+    text-align: center;
+    width: 90px;
+    height: 20px;
+    margin-top: 60px;
+    margin-bottom: px;
+    margin-right: px;
+    margin-left: 134px;
+}
+.voltar{
+    border: solid green 2px; 
+    border-radius: 10px;
+    background-color: green;
+    text-align: center;
+    width: 170px;
+    height: 20px;
+    margin-top: 200px;
+    margin-bottom: px;
+    margin-right: px;
+    margin-left: 534px;
+}
+.o_numero{
+    font-size: 30px;
+    margin-top: -220px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 490px;     
+}
+.interrogação{
+    font-size: 30px;
+    text-align:center;
+    width: 30px;
+    height: 40px;
+    border: solid black 2px; 
+    
+    background-color:rgb(137, 182, 13);
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 600px;    
+}
